@@ -81,7 +81,7 @@ test-be-Gencidev/
 
 ### 1. Clone Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/ivanyoga01/test-be-Gencidev.git
 cd test-be-Gencidev
 ```
 
